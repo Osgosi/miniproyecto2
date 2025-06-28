@@ -1,0 +1,32 @@
+Nombre,Carrera,Edad,Regular
+Student 001,Ingenieria Mecánica y Electrica,26,True
+Student 002,Nutricion,20,True
+Student 003,Derecho,16,False
+Student 004,Contabilidad,26,False
+Student 005,Contabilidad,20,True
+Student 006,Psicologia,16,True
+Student 007,Psicologia,24,True
+Student 008,Psicologia,24,True
+Student 009,Ingenieria Industrial,26,True
+Student 010,Ingenieria Mecánica y Electrica,22,True
+Student 011,Ingenieria Mecánica y Electrica,18,True
+Student 012,Nutricion,20,True
+Student 013,Derecho,20,False
+Student 014,Ingenieria Industrial,19,True
+Student 015,Contabilidad,22,True
+Student 016,Ingenieria Industrial,21,True
+Student 017,Ingenieria Mecatronica,23,False
+Student 018,Contabilidad,19,False
+Student 019,Nutricion,18,True
+Student 020,Ingenieria Industrial,21,True
+Student 021,Ingenieria Mecatronica,22,True
+Student 022,Ingenieria Mecatronica,20,False
+Student 023,Ingenieria Mecánica y Electrica,19,True
+Student 024,Nutricion,18,False
+Student 025,Psicologia,21,True
+Student 026,Contabilidad,20,True
+Student 027,Ingenieria Mecánica y Electrica,22,True
+Student 028,Derecho,19,False
+Student 029,Nutricion,18,False
+Student 030,Psicologia,20,True
+Samantha,Psicologia,19,True
